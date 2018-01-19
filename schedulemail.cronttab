@@ -1,0 +1,2 @@
+#!/bin/bash
+59 07 19 1 * echo 'Dear Professor Craig, this is my assignment1' | mail -s 'Trgn510 Assign1' davidwcr@usc.edu
